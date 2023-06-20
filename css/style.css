@@ -17,6 +17,8 @@ body {
     border-radius: 10px;
     background-color: cadetblue;
     margin-left: 2px;
+    padding: 1px
+    
 }
 
 .adding_features_Task {
@@ -24,11 +26,13 @@ body {
     background-color: rgb(31, 98, 180);
     border-radius: 8%;
     margin-right: 5px;
+    padding: 1px;
 }
 
 .adding_features_Section {
     border: solid 1px;
     border-radius: 8%;
+    padding: 1px;
 }
 
 .editorial_box {
@@ -36,6 +40,7 @@ body {
     border-radius: 10px;
     margin-left: 2px;
     background-color: cadetblue;
+    padding:1px;
 }
 
 .Goals_Q1 {
@@ -55,4 +60,16 @@ body {
     border-radius: 10px;
     margin-left: 2px;
     background-color: orange;
+}
+.homepage_refresh{
+    border: solid 1px;
+    border-radius: 10px;
+    margin-left: 2px;
+    background-color:fuchsia;
+}
+.Sales{
+    border: solid 1px;
+    border-radius: 10px;
+    margin-left: 2px;
+    background-color: greenyellow;
 }
