@@ -1,27 +1,58 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-body{
+
+body {
     background-color: rgb(243, 243, 243);
 }
-#header_div{
-    background-color:white;
+
+#header_div {
+    background-color: white;
 }
-#editorial_box{
+
+#editorial_box {
     border: solid 1px;
-    border-radius: 8%;
-    background-color:cadetblue;
+    border-radius: 10px;
+    background-color: cadetblue;
     margin-left: 2px;
 }
-.adding_features_Task{
-    border:solid 1px;
-    background-color:rgb(31, 98, 180);
+
+.adding_features_Task {
+    border: solid 1px;
+    background-color: rgb(31, 98, 180);
     border-radius: 8%;
     margin-right: 5px;
 }
-.adding_features_Section{
+
+.adding_features_Section {
     border: solid 1px;
     border-radius: 8%;
+}
+
+.editorial_box {
+    border: solid 1px;
+    border-radius: 10px;
+    margin-left: 2px;
+    background-color: cadetblue;
+}
+
+.Goals_Q1 {
+    border: solid 1px;
+    border-radius: 10px;
+    margin-left: 2px;
+    background-color: rgba(123, 3, 101, 0.852);
+}
+.Recruiting{
+    border: solid 1px;
+    border-radius: 10px;
+    margin-left: 2px;
+    background-color: aquamarine;
+}
+.mobile{
+    border: solid 1px;
+    border-radius: 10px;
+    margin-left: 2px;
+    background-color: orange;
 }
