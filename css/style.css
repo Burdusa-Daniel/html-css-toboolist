@@ -10,6 +10,7 @@ body {
 
 #header_div {
     background-color: white;
+    
 }
 #div_adding_features{
     padding: 10px 40px;
@@ -19,10 +20,20 @@ body {
     width: 70%;
     background-color: white;
     margin-top: 30px;
+    border-radius: 5px;
     
 }
 #list{
     padding-left: 40px;
+}
+#new_task{
+    padding: 20px;
+}
+#today{
+    padding: 20px 40px;
+}
+#upcoming{
+    padding: 0px 0px 20px 40px;
 }
 #editorial_box {
     border: solid 1px;
