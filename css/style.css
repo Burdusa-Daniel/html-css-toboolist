@@ -9,3 +9,13 @@ body{
 #header_div{
     background-color:white;
 }
+.adding_features_Task{
+    border:solid 1px;
+    background-color:rgb(31, 98, 180);
+    border-radius: 8%;
+    margin-right: 5px;
+}
+.adding_features_Section{
+    border: solid 1px;
+    border-radius: 8%;
+}
