@@ -10,31 +10,38 @@ body {
 
 #header_div {
     background-color: white;
-    
+
 }
-#div_adding_features{
+
+#div_adding_features {
     padding: 10px 40px;
 }
+
 #div_main {
     margin: auto;
     width: 70%;
     background-color: white;
     margin-top: 30px;
     border-radius: 5px;
-    
+
 }
-#list{
+
+#list {
     padding-left: 40px;
 }
-#new_task{
+
+#new_task {
     padding: 20px;
 }
-#today{
+
+#today {
     padding: 20px 40px;
 }
-#upcoming{
+
+#upcoming {
     padding: 0px 0px 20px 40px;
 }
+
 #editorial_box {
     border: solid 1px;
     border-radius: 10px;
@@ -50,7 +57,7 @@ body {
     margin-right: 5px;
     padding: 1px 2px;
     color: white;
-    
+
 }
 
 .adding_features_Section {
@@ -84,7 +91,7 @@ body {
     border: solid 1px;
     border-radius: 10px;
     margin-left: 2px;
-    background-color:darkseagreen;
+    background-color: darkseagreen;
     color: white;
     font-size: smaller;
     padding: 2px;
@@ -104,7 +111,7 @@ body {
     border: solid 1px;
     border-radius: 10px;
     margin-left: 5px;
-    background-color:rgb(168, 57, 105);
+    background-color: rgb(168, 57, 105);
     color: white;
     font-size: smaller;
     padding: 2px;
