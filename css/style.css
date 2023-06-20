@@ -9,6 +9,12 @@ body{
 #header_div{
     background-color:white;
 }
+#editorial_box{
+    border: solid 1px;
+    border-radius: 8%;
+    background-color:cadetblue;
+    margin-left: 2px;
+}
 .adding_features_Task{
     border:solid 1px;
     background-color:rgb(31, 98, 180);
